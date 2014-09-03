@@ -1,0 +1,2 @@
+c:\users\esouza.esouzanote-pc\documents\visual studio 2013\Projects\ControleFinanceiro\ControleFinanceiro\bin\Debug\ControleFinanceiro.exe.config
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\bin\Debug\ControleFinanceiro.exe.config
