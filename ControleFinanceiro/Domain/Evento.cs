@@ -10,5 +10,12 @@ namespace ControleFinanceiro.Domain
     {
         public int EventoID { get; set; }
         public DateTime CompetenciaPagamento { get; set; }
+        public string Descricao { get; set; }
+        public Categoria Categoria { get; set; }
+        public short Parcela { get; set; }
+        public short TotalParcela { get; set; }
+        public decimal Valor { get; set; }
+        public bool PagamentoConfirmado { get; set; }
+
     }
 }

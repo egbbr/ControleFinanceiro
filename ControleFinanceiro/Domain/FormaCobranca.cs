@@ -13,10 +13,4 @@ namespace ControleFinanceiro.Domain
         public string Descricao { get; set; }
         public Banco Banco { get; set; }
     }
-
-    public class Banco
-    {
-        public short BancoID { get; set; }
-        public string Descricao { get; set; }
-    }
 }
