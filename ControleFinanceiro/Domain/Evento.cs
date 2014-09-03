@@ -16,6 +16,8 @@ namespace ControleFinanceiro.Domain
         public short TotalParcela { get; set; }
         public decimal Valor { get; set; }
         public bool PagamentoConfirmado { get; set; }
+        public Banco Banco { get; set; }
 
     }
+
 }

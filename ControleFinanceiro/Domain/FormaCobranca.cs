@@ -11,6 +11,5 @@ namespace ControleFinanceiro.Domain
     {
         public short FormaCobrancaID { get; set; }
         public string Descricao { get; set; }
-        public Banco Banco { get; set; }
     }
 }

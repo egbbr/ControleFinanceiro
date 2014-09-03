@@ -1,0 +1,2 @@
+﻿1;01-09-2014;Valor Inicial;1;0;0;5000;true;1
+1;01-09-2014;Valor Inicial;1;0;0;3000;true;2

@@ -1,2 +1,9 @@
 c:\users\esouza.esouzanote-pc\documents\visual studio 2013\Projects\ControleFinanceiro\ControleFinanceiro\bin\Debug\ControleFinanceiro.exe.config
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\bin\Debug\Repository\EventoBase.txt
 C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\bin\Debug\ControleFinanceiro.exe.config
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\bin\Debug\ControleFinanceiro.exe
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\bin\Debug\ControleFinanceiro.pdb
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.Properties.Resources.resources
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.csproj.GenerateResource.Cache
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.exe
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.pdb

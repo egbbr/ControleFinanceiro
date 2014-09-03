@@ -1,0 +1,10 @@
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiroTest\bin\Debug\Repository\EventoBase.txt
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiroTest\bin\Debug\ControleFinanceiroTest.dll
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiroTest\bin\Debug\ControleFinanceiroTest.pdb
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiroTest\bin\Debug\ControleFinanceiro.exe
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiroTest\bin\Debug\nunit.framework.dll
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiroTest\bin\Debug\ControleFinanceiro.pdb
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiroTest\bin\Debug\nunit.framework.xml
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiroTest\obj\Debug\ControleFinanceiroTest.csprojResolveAssemblyReference.cache
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiroTest\obj\Debug\ControleFinanceiroTest.dll
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiroTest\obj\Debug\ControleFinanceiroTest.pdb
