@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace ControleFinanceiro.Domain
 {
@@ -17,7 +18,17 @@ namespace ControleFinanceiro.Domain
         public decimal Valor { get; set; }
         public bool PagamentoConfirmado { get; set; }
         public Banco Banco { get; set; }
+        public Orcamento Orcamento { get; set; }
 
+        public bool EhDespesa()
+        {
+            return Valor <= 0;
+        }
+
+        public bool PossuiOrcamento()
+        {
+            return Orcamento != null;
+        }
     }
-
 }
+

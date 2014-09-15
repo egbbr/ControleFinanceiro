@@ -7,3 +7,6 @@ C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanc
 C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.csproj.GenerateResource.Cache
 C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.exe
 C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.pdb
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.csprojResolveAssemblyReference.cache
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.frmMain.resources
+C:\Users\esouza.ESOUZANOTE-PC\Documents\GitHub\ControleFinanceiro\ControleFinanceiro\obj\Debug\ControleFinanceiro.FrmOrcamento.resources

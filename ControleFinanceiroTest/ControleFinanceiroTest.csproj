@@ -55,6 +55,7 @@
   </Choose>
   <ItemGroup>
     <Compile Include="EventoRepositoryTest.cs" />
+    <Compile Include="OrcamentoRepositoryTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

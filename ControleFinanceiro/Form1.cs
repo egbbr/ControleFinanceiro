@@ -10,11 +10,22 @@ using System.Windows.Forms;
 
 namespace ControleFinanceiro
 {
-    public partial class Form1 : Form
+    public partial class frmMain : Form
     {
-        public Form1()
+        public frmMain()
         {
             InitializeComponent();
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void btnOrcamento_Click(object sender, EventArgs e)
+        {
+            var frmOrcamento = new FrmOrcamento();
+            frmOrcamento.ShowDialog();
         }
     }
 }

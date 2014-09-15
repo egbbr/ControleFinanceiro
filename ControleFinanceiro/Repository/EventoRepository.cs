@@ -33,13 +33,13 @@ namespace ControleFinanceiro.Repository
 
         #endregion
 
-        public void ObterTodosEventos()
+        public IEnumerable<Evento> ObterTodosEventos()
         {
-            GetAll();
+            return GetAll();
         }
 
 
-        private void GetAll()
+        private IEnumerable<Evento> GetAll()
         {
             var ListaEventos = new List<Evento>();
             var leitor = new StreamReader(CaminhoArquivo);
@@ -62,7 +62,8 @@ namespace ControleFinanceiro.Repository
                     
                 linha = leitor.ReadLine();
             }
-          
+
+            return ListaEventos;
         }
 
 }   
