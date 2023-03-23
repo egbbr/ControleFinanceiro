@@ -1,0 +1,6 @@
+Grupo,Valor,Movimento,Descricao,FormaPagamento,parcela,ParcelaFinal,DiaVencimento,Competencia,Status,Recorrente
+Salario,11500,Receita,Salario Mensal Mongeral Aegon,Credito em Conta,0,0,1,2023-04-01,Pendente,Sim
+Salario,2000,Receita,Dinheiro vindo da Renata,Credito em Conta,0,0,1,2023-04-01,Pendente,Sim
+Salario,42000,Receita,PLR - Lucros MAG,Credito em Conta,0,0,1,2023-04-01,Pendente,Nao
+Saude,500,Receita,Reembolço Plano de Saúde previsto,Credito em Conta,0,0,10,2023-04-01,Pendente,Sim
+Poupanca,100,Receita,Retorno Emprestimo Arildo,Credito em Conta,2,3,10,2023-04-01,Pendente,Sim

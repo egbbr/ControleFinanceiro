@@ -1,0 +1,19 @@
+,Grupo,Valor,Movimento,Descricao,FormaPagamento,parcela,ParcelaFinal,DiaVencimento,Competencia,Status,Recorrente
+0,Salario,11500,Receita,Salario Mensal Mongeral Aegon,Credito em Conta,0,0,1,2023-04-01,Pendente,Sim
+1,Salario,2000,Receita,Dinheiro vindo da Renata,Credito em Conta,0,0,1,2023-04-01,Pendente,Sim
+2,Salario,35000,Receita,PLR - Lucros MAG,Credito em Conta,0,0,1,2023-04-01,Pendente,Nao
+3,Lazer,-2000,Despesa,Cartao personalite - ifood e Gasolina,Cartao Personalite,0,0,1,2023-04-01,Pendente,Sim
+4,Alimentacao,-2500,Despesa,Cartão Nubank,Cartao Nubank,0,0,1,2023-04-01,Pendente,Sim
+5,Lazer,-1000,Despesa,Cartao Visa,Cartao Visa,0,0,1,2023-04-01,Pendente,Sim
+6,Comunicacao,-139,Despesa,Predial Net internet home,Boleto,0,0,1,2023-04-01,Pendente,Sim
+7,Comunicacao,-390,Despesa,Telefone Tim,Boleto,0,0,1,2023-04-01,Pendente,Sim
+8,Moradia,-790,Despesa,Condominio Spazio Noronha,Boleto,0,0,1,2023-04-01,Pendente,Sim
+9,Moradia,-150,Despesa,Gas Spazio Noronha,Boleto,0,0,1,2023-04-01,Pendente,Sim
+10,Lazer,-1440,Despesa,KLM Viagem Rennan,Cartao Personalite,1,4,5,2023-04-01,Pendente,Sim
+11,Presente,-328,Despesa,Caixa de Som Renata Pacheco,Cartao Visa,4,10,10,2023-04-01,Pendente,Sim
+12,Saude,-600,Despesa,Tratamento da Ansiedade,Cartao Visa,4,10,10,2023-04-01,Pendente,Sim
+13,Saude,-300,Despesa,Lente do óculos - 3000 10x,Cartao Visa,1,10,10,2023-04-01,Pendente,Sim
+14,Saude,500,Receita,Reembolço Plano de Saúde previsto,Credito em Conta,0,0,10,2023-04-01,Pendente,Sim
+15,Poupanca,-35000,Despesa,Guardar Dinheiro Poupança,Credito em Conta,0,0,10,2023-04-01,Pendente,Sim
+16,Poupanca,100,Receita,Retorno Emprestimo Arildo,Credito em Conta,2,3,10,2023-04-01,Pendente,Sim
+17,Transporte,-869,Despesa,Eclipse Cross 2022,Boleto,9,47,3,2023-04-01,Pendente,Sim
