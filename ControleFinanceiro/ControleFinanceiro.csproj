@@ -49,11 +49,18 @@
     <Compile Include="Domain\Categoria.cs" />
     <Compile Include="Domain\Orcamento.cs" />
     <Compile Include="Domain\OrcamentoDTO.cs" />
+    <Compile Include="Domain\EventoDTO.cs" />
     <Compile Include="FrmOrcamento.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmOrcamento.Designer.cs">
       <DependentUpon>FrmOrcamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLancamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLancamento.Designer.cs">
+      <DependentUpon>FrmLancamento.cs</DependentUpon>
     </Compile>
     <Compile Include="Repository\BancoRepository.cs" />
     <Compile Include="Repository\CategoriaRepository.cs" />
@@ -75,6 +82,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FrmOrcamento.resx">
       <DependentUpon>FrmOrcamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLancamento.resx">
+      <DependentUpon>FrmLancamento.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

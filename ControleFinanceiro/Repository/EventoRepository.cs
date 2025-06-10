@@ -38,6 +38,14 @@ namespace ControleFinanceiro.Repository
             return GetAll();
         }
 
+        public void Adicionar(Evento novoEvento)
+        {
+            var todos = GetAll().ToList();
+            novoEvento.EventoID = todos.Select(e => e.EventoID).Concat(new[] { 0 }).Max() + 1;
+            todos.Add(novoEvento);
+            SalveAll(todos);
+        }
+
 
         private IEnumerable<Evento> GetAll()
         {
@@ -64,6 +72,16 @@ namespace ControleFinanceiro.Repository
             }
 
             return ListaEventos;
+        }
+
+        private void SalveAll(IEnumerable<Evento> eventos)
+        {
+            var escritor = new StreamWriter(CaminhoArquivo);
+            foreach (var evento in eventos)
+            {
+                escritor.WriteLine(evento.EventoID + ";" + evento.CompetenciaPagamento + ";" + evento.Descricao + ";" + evento.Categoria.CategoriaID + ";" + evento.Parcela + ";" + evento.TotalParcela + ";" + evento.Valor + ";" + evento.PagamentoConfirmado + ";" + evento.Banco.BancoID);
+            }
+            escritor.Dispose();
         }
 
 }   
