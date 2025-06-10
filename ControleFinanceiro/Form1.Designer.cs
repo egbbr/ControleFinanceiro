@@ -53,6 +53,7 @@
             this.btnLancamento.TabIndex = 1;
             this.btnLancamento.Text = "Lançamentos";
             this.btnLancamento.UseVisualStyleBackColor = true;
+            this.btnLancamento.Click += new System.EventHandler(this.btnLancamento_Click);
             // 
             // btnRelatorio
             // 

@@ -27,5 +27,11 @@ namespace ControleFinanceiro
             var frmOrcamento = new FrmOrcamento();
             frmOrcamento.ShowDialog();
         }
+
+        private void btnLancamento_Click(object sender, EventArgs e)
+        {
+            var frm = new FrmLancamento();
+            frm.ShowDialog();
+        }
     }
 }

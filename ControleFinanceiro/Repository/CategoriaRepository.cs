@@ -20,5 +20,10 @@ namespace ControleFinanceiro.Repository
             };
             return lista;
         }
+
+        public IEnumerable<Categoria> ObterTodasCategorias()
+        {
+            return GetAll();
+        }
     }
 }
